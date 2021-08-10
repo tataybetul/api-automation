@@ -5,7 +5,7 @@
 
 Git:
 
-    git clone ....
+    git clone https://github.com/tataybetul/api-automation.git
     cd api-automation
 
 ## Use Maven
